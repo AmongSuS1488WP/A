@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.ButtonLogOut {
+  text-align: right;
+}
+
+.EditCellBox {
+  display: inline-flex;
+  float: right;
+}
+
+.EditCellBox :hover {
+  cursor: pointer;
+}
+
+.DeleteCellBox {
+  display: inline-flex;
+}
+
+.DeleteCellBox :hover {
+  cursor: pointer;
+}
+
+.AddLineMenu {
+}
+
+.AddLineMenu :hover {
+  cursor: pointer;
+}
